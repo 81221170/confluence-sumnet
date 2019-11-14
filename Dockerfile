@@ -1,1 +1,1 @@
-From docker-atlassian-confluence:7.1.0
+From cptactionhank/atlassian-confluence:7.1.0
