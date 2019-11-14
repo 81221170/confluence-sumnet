@@ -1,1 +1,1 @@
-From https://hub.docker.com/r/cptactionhank/atlassian-confluence:7.1.0
+From https://cptactionhank.github.io/docker-atlassian-confluence:7.1.0
